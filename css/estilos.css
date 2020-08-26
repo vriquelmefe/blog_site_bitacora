@@ -1,28 +1,30 @@
 body{
-    background-color: coral;
+    background-color: plum;
     font-style: italic;
   }
   .main{
     width: 80%;
     margin: 20px auto;
-    border: 1px solid cornflowerblue;
+    border: 1px solid chocolate;
     padding: 20px;
-    background-color: red;
+    background-color: palevioletred;
+    border-radius: 10px;
   }
   
   h2{
-    color: gray;
+    color: burlywood;
   }
   
   .encabezado{
-    background-color: blue;
-    color: cyan;
+    background-color: plum;
+    color: mediumvioletred;
     padding: 20px;
     margin-bottom: 10px;
     font-size: 30px;
     box-shadow: 0px 10px 10px black ;
+    border-radius: 5px;
   }
   
   h3{
-    color: crimson;
+    color: purple;
   }
