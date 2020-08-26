@@ -1,3 +1,28 @@
-body {
+body{
     background-color: coral;
-}
+    font-style: italic;
+  }
+  .main{
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid cornflowerblue;
+    padding: 20px;
+    background-color: red;
+  }
+  
+  h2{
+    color: gray;
+  }
+  
+  .encabezado{
+    background-color: blue;
+    color: cyan;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    box-shadow: 0px 10px 10px black ;
+  }
+  
+  h3{
+    color: crimson;
+  }
