@@ -28,3 +28,14 @@ body{
   h3{
     color: purple;
   }
+
+  footer{
+    background-color: chocolate;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+  }
+  footer p {
+    color: darkgray;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
