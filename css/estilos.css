@@ -23,6 +23,25 @@ body{
     font-size: 30px;
     box-shadow: 0px 10px 10px black ;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+  }
+  ul{
+    list-style: none;
+  }
+  figure{
+    width: 150px;
+    height: 120px;
+    margin: 0;
+  }
+  img{
+    width: inherit;
+    height: inherit;
+  }
+  a{
+    text-decoration: none;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   h3{
